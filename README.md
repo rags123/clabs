@@ -1,5 +1,5 @@
 # clabs
-Solution for the problem statement for customer labs
+Solution for a problem statement 
 
 Dependencies:
 Flask
